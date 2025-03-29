@@ -1,0 +1,323 @@
+[29Mar2025 03:13:29.786] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
+[29Mar2025 03:13:29.793] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.26 by Ubuntu
+[29Mar2025 03:13:30.325] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[29Mar2025 03:13:30.421] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/serverhardcore/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
+[29Mar2025 03:13:31.560] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[29Mar2025 03:13:31.782] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[29Mar2025 03:13:31.790] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[29Mar2025 03:13:33.796] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
+[29Mar2025 03:13:34.642] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.18.0+mc1.16.5: 89 options available, 0 override(s) found
+[29Mar2025 03:13:35.103] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[29Mar2025 03:13:36.550] [main/INFO] [memoryleakfix/]: [MemoryLeakFix] Will be applying 3 memory leak fixes!
+[29Mar2025 03:13:36.551] [main/INFO] [memoryleakfix/]: [MemoryLeakFix] Currently enabled memory leak fixes: [entityMemoriesLeak, biomeTemperatureLeak, drownedNavigationLeak]
+[29Mar2025 03:13:36.683] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via ca.fxco.memoryleakfix.mixinextras.service.MixinExtrasServiceImpl(version=0.3.2).
+[29Mar2025 03:13:37.095] [main/INFO] [net.minecraft.util.registry.Bootstrap/]: ModernFix reached bootstrap stage (8.904 s after launch)
+[29Mar2025 03:13:38.381] [main/INFO] [FerriteCore - class definer/]: Using Java 9+ class definer
+[29Mar2025 03:13:40.622] [main/INFO] [net.minecraft.util.registry.Bootstrap/]: Vanilla bootstrap took 3522 milliseconds
+[29Mar2025 03:13:41.088] [modloading-worker-1/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
+[29Mar2025 03:13:41.098] [modloading-worker-1/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
+[29Mar2025 03:13:42.357] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
+[29Mar2025 03:13:42.358] [main/INFO] [ModernFix/]: Instantiating Mojang DFU
+[29Mar2025 03:13:43.666] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[29Mar2025 03:13:43.793] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[29Mar2025 03:13:43.804] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
+[29Mar2025 03:13:43.807] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[29Mar2025 03:13:43.807] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
+[29Mar2025 03:13:43.850] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
+[29Mar2025 03:13:43.889] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[29Mar2025 03:13:44.724] [modloading-worker-1/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[29Mar2025 03:13:44.783] [modloading-worker-1/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[29Mar2025 03:13:44.957] [modloading-worker-1/INFO] [noppes.npcs.CustomNpcs/]: CustomNPC Permissions available:
+[29Mar2025 03:13:44.959] [modloading-worker-1/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.edit.blocks
+[29Mar2025 03:13:44.962] [modloading-worker-1/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.edit.villager
+[29Mar2025 03:13:44.963] [modloading-worker-1/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.bank
+[29Mar2025 03:13:44.964] [modloading-worker-1/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.dialog
+[29Mar2025 03:13:44.966] [modloading-worker-1/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.faction
+[29Mar2025 03:13:44.968] [modloading-worker-1/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.linked
+[29Mar2025 03:13:44.968] [modloading-worker-1/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.naturalspawn
+[29Mar2025 03:13:44.968] [modloading-worker-1/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.playerdata
+[29Mar2025 03:13:44.968] [modloading-worker-1/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.quest
+[29Mar2025 03:13:44.968] [modloading-worker-1/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.recipe
+[29Mar2025 03:13:44.969] [modloading-worker-1/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.transport
+[29Mar2025 03:13:44.971] [modloading-worker-1/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.advanced
+[29Mar2025 03:13:44.972] [modloading-worker-1/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.ai
+[29Mar2025 03:13:44.973] [modloading-worker-1/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.clone
+[29Mar2025 03:13:44.973] [modloading-worker-1/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.create
+[29Mar2025 03:13:44.974] [modloading-worker-1/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.delete
+[29Mar2025 03:13:44.975] [modloading-worker-1/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.display
+[29Mar2025 03:13:44.980] [modloading-worker-1/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.freeze
+[29Mar2025 03:13:44.980] [modloading-worker-1/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.gui
+[29Mar2025 03:13:44.980] [modloading-worker-1/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.inventory
+[29Mar2025 03:13:44.980] [modloading-worker-1/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.reset
+[29Mar2025 03:13:44.981] [modloading-worker-1/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.stats
+[29Mar2025 03:13:44.981] [modloading-worker-1/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.scenes
+[29Mar2025 03:13:44.981] [modloading-worker-1/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.soulstone.all
+[29Mar2025 03:13:44.982] [modloading-worker-1/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.spawner.create
+[29Mar2025 03:13:44.984] [modloading-worker-1/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.spawner.mob
+[29Mar2025 03:13:44.985] [modloading-worker-1/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.tool.mounter
+[29Mar2025 03:13:44.986] [modloading-worker-1/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.tool.nbtbook
+[29Mar2025 03:13:44.987] [modloading-worker-1/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.tool.pather
+[29Mar2025 03:13:44.993] [modloading-worker-1/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.tool.scripter
+[29Mar2025 03:13:45.227] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+java.lang.NullPointerException: null
+	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:160) ~[forge:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:187) ~[forge:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:128) [forge:?]
+[29Mar2025 03:13:45.230] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_nyctophobia_dread] Starting version check at https://api.modrinth.com/updates/Q2HFmuJV/forge_updates.json
+[29Mar2025 03:13:45.456] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_nyctophobia_dread] Found status: OUTDATED Current: 3 Target: 3+mod
+[29Mar2025 03:13:45.457] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamic_fps] Starting version check at https://api.lostluma.net/updates/dynamic-fps?platform=forge&provider=modrinth
+[29Mar2025 03:13:45.525] [modloading-worker-1/INFO] [Waila/]: Registered plugin at snownee.jade.JadePlugin
+[29Mar2025 03:13:45.526] [modloading-worker-1/INFO] [Waila/]: Registered plugin at snownee.jade.JadeClientPlugin
+[29Mar2025 03:13:45.533] [modloading-worker-1/INFO] [Waila/]: Registered plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
+[29Mar2025 03:13:45.540] [modloading-worker-1/INFO] [Waila/]: Registered plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
+[29Mar2025 03:13:45.805] [main/WARN] [net.minecraftforge.fml.server.ServerModLoader/LOADING]: Mods loaded with 2 warnings
+[29Mar2025 03:13:45.813] [main/WARN] [net.minecraftforge.fml.server.ServerModLoader/LOADING]: modernfix.no_lazydfu
+[29Mar2025 03:13:45.816] [main/WARN] [net.minecraftforge.fml.server.ServerModLoader/LOADING]: modernfix.perf_mod_warning
+[29Mar2025 03:13:45.912] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamic_fps] Found status: UP_TO_DATE Current: 3.4.3 Target: null
+[29Mar2025 03:13:45.912] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [shieldexp] Starting version check at https://infernalstudios.org/api/mods/shieldexpansion/forge
+[29Mar2025 03:13:46.032] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [shieldexp] Found status: AHEAD Current: 1.1.6 Target: null
+[29Mar2025 03:13:46.037] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[29Mar2025 03:13:46.192] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 36.2.42 Target: null
+[29Mar2025 03:13:46.193] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Starting version check at https://mc-update-check.anthonyhilyard.com/520110
+[29Mar2025 03:13:46.447] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Found status: BETA Current: 1.0.45 Target: null
+[29Mar2025 03:13:46.447] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Starting version check at https://raw.githubusercontent.com/Autovw/ModUpdates/master/advancednetherite/update.json
+[29Mar2025 03:13:46.552] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Found status: BETA Current: 1.12.4 Target: 1.12.4
+[29Mar2025 03:13:46.555] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [prism] Starting version check at https://mc-update-check.anthonyhilyard.com/638111
+[29Mar2025 03:13:46.588] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [prism] Found status: UP_TO_DATE Current: 1.0.1 Target: null
+[29Mar2025 03:13:46.591] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[29Mar2025 03:13:47.009] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: v1.9.12.1 Target: null
+[29Mar2025 03:13:47.267] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[29Mar2025 03:13:48.403] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [noppes, mark, clear] and [noppes, mark, entities] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[29Mar2025 03:13:48.404] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [noppes, mark, entities] and [noppes, mark, clear] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[29Mar2025 03:13:48.411] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[29Mar2025 03:13:48.415] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[29Mar2025 03:13:48.420] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[29Mar2025 03:13:48.425] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[29Mar2025 03:13:48.430] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[29Mar2025 03:13:48.435] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [voicechat, join, group_id] and [voicechat, join, group_name] with inputs: [dd12be42-52a9-4a91-a8a1-11c01849e498]
+[29Mar2025 03:13:48.444] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, BiomesOPlenty-1.16.5-13.1.0.488-universal (1).jar, Jade-1.16.4-2.8.3 (1).jar, Chunky-1.2.123.jar, Iceberg-1.16.5-1.0.45.jar, curios-forge-1.16.5-4.1.0.0.jar, advancednetherite-1.12.4-1.16.5.jar, Prism-1.16.5-1.0.1.jar, modernfix-forge-5.18.0+mc1.16.5.jar, jei-1.16.5-7.8.0.1013 (1).jar, ToughAsNails-1.16.5-4.1.0.9-universal.jar, CustomNPCs-1.16.5.20241106.jar, ferritecore-2.1.1-forge.jar, nyctophobia-dread-3.jar, cloth-config-4.17.101-forge.jar, dynamic-fps-3.4.3+minecraft-1.16.5-forge.jar, memoryleakfix-forge-pre1.17-1.1.5.jar, ShieldExpansion-1.16.5-1.1.6.jar, forge-1.16.5-36.2.42-universal.jar, 3 Lifes, Voice Chat Forge 1.16.5 2.5.28.jar, [1.16.5] SecurityCraft v1.9.12.1.jar
+[29Mar2025 03:13:48.452] [main/INFO] [ModernFix/]: Invalidating pack caches
+[29Mar2025 03:13:50.851] [Worker-Main-2/ERROR] [net.minecraft.tags.TagCollectionReader/]: Couldn't load block tag nycto:nonsolid as it is missing following references: #minecraft:wool_carpets (from nyctophobia-dread-3.jar),#minecraft:candles (from nyctophobia-dread-3.jar),#minecraft:cave_vines (from nyctophobia-dread-3.jar),minecraft:sculk_vein (from nyctophobia-dread-3.jar),minecraft:hanging_roots (from nyctophobia-dread-3.jar)
+[29Mar2025 03:13:50.988] [Worker-Main-2/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe miningmaster:forging/paragon_shield: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'miningmaster:forging_recipe'
+[29Mar2025 03:13:51.027] [Worker-Main-2/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe shieldexp:griefer_shield: com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof_plating'
+[29Mar2025 03:13:51.036] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 8 recipes
+[29Mar2025 03:13:51.824] [Worker-Main-2/ERROR] [net.minecraft.resources.FunctionReloader/]: Failed to load function nycto:player/darkness/inside
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 3: Objective names cannot be longer than 16 characters
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:314) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:319) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1702) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1692) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 3: Objective names cannot be longer than 16 characters
+	at net.minecraft.command.FunctionObject.func_237140_a_(SourceFile:62) ~[?:?]
+	at net.minecraft.resources.FunctionReloader.func_240935_a_(SourceFile:86) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1700) ~[?:?]
+	... 6 more
+[29Mar2025 03:13:51.829] [Worker-Main-2/ERROR] [net.minecraft.resources.FunctionReloader/]: Failed to load function nycto:player/darkness/outside
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 6: Objective names cannot be longer than 16 characters
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:314) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:319) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1702) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1692) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 6: Objective names cannot be longer than 16 characters
+	at net.minecraft.command.FunctionObject.func_237140_a_(SourceFile:62) ~[?:?]
+	at net.minecraft.resources.FunctionReloader.func_240935_a_(SourceFile:86) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1700) ~[?:?]
+	... 6 more
+[29Mar2025 03:13:51.832] [Worker-Main-2/ERROR] [net.minecraft.resources.FunctionReloader/]: Failed to load function nycto:player/register
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Objective names cannot be longer than 16 characters
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:314) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:319) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1702) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1692) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Objective names cannot be longer than 16 characters
+	at net.minecraft.command.FunctionObject.func_237140_a_(SourceFile:62) ~[?:?]
+	at net.minecraft.resources.FunctionReloader.func_240935_a_(SourceFile:86) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1700) ~[?:?]
+	... 6 more
+[29Mar2025 03:13:52.046] [Worker-Main-2/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1792 advancements
+[29Mar2025 03:13:52.488] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
+[29Mar2025 03:13:52.491] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[29Mar2025 03:13:52.492] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[29Mar2025 03:13:52.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[29Mar2025 03:13:52.754] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[29Mar2025 03:13:52.788] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
+[29Mar2025 03:13:52.877] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[29Mar2025 03:13:52.879] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[29Mar2025 03:13:52.880] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[29Mar2025 03:13:52.880] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[29Mar2025 03:13:53.088] [Server thread/INFO] [ModernFix/]: Starting locating executor service with thread pool size of 1
+[29Mar2025 03:13:53.609] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[29Mar2025 03:13:53.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[29Mar2025 03:13:56.235] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[29Mar2025 03:13:56.238] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[29Mar2025 03:13:56.239] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[29Mar2025 03:13:56.241] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[29Mar2025 03:13:56.241] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[29Mar2025 03:13:56.583] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[29Mar2025 03:13:57.032] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 51%
+[29Mar2025 03:13:57.413] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 84%
+[29Mar2025 03:13:57.835] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 3932 ms
+[29Mar2025 03:13:57.835] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (4.843s)! For help, type "help"
+[29Mar2025 03:13:58.010] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2375acf1
+[29Mar2025 03:13:58.169] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[29Mar2025 03:13:58.204] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
+[29Mar2025 03:13:58.275] [Server thread/WARN] [ModernFix/]: Dedicated server took 30.086 seconds to load
+[29Mar2025 03:14:47.901] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@72debe59
+[29Mar2025 03:14:47.921] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: XispasYT[/127.35.153.109:45367] logged in with entity id 155 at (102.5, 65.0, 10.5)
+[29Mar2025 03:14:47.981] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: XispasYT joined the game
+[29Mar2025 03:14:48.192] [Server thread/INFO] [Waila/]: Syncing config to XispasYT (81bf50e3-d2d9-36df-8f8a-fef79bbeb094)
+[29Mar2025 03:14:53.006] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of XispasYT (18)
+[29Mar2025 03:14:53.010] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to XispasYT
+[29Mar2025 03:15:03.263] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: XispasYT lost connection: Timed out
+[29Mar2025 03:15:03.264] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: XispasYT left the game
+[29Mar2025 03:15:03.266] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client XispasYT
+[29Mar2025 03:15:03.334] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[29Mar2025 03:16:35.544] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@75c621d2
+[29Mar2025 03:16:35.553] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: XispasYT[/127.210.208.212:46009] logged in with entity id 159 at (102.5, 65.0, 10.5)
+[29Mar2025 03:16:35.557] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: XispasYT joined the game
+[29Mar2025 03:16:35.614] [Server thread/INFO] [Waila/]: Syncing config to XispasYT (81bf50e3-d2d9-36df-8f8a-fef79bbeb094)
+[29Mar2025 03:16:37.800] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of XispasYT (18)
+[29Mar2025 03:16:37.800] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to XispasYT
+[29Mar2025 03:16:40.797] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@27b5a787
+[29Mar2025 03:16:40.804] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: ChirinoSMK[/127.215.174.2:59773] logged in with entity id 177 at (110.5, 64.0, 10.5)
+[29Mar2025 03:16:40.808] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ChirinoSMK joined the game
+[29Mar2025 03:16:40.892] [Server thread/INFO] [Waila/]: Syncing config to ChirinoSMK (6d8b0ec6-213f-39d1-addb-275871044be4)
+[29Mar2025 03:16:42.331] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ChirinoSMK (18)
+[29Mar2025 03:16:42.332] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ChirinoSMK
+[29Mar2025 03:16:50.695] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: XispasYT lost connection: Timed out
+[29Mar2025 03:16:50.696] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: XispasYT left the game
+[29Mar2025 03:16:50.696] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client XispasYT
+[29Mar2025 03:17:10.847] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@8dd08d6
+[29Mar2025 03:17:10.853] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: DonKenG666[/127.249.240.161:48945] logged in with entity id 242 at (92.5, 67.0, 5.5)
+[29Mar2025 03:17:10.857] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DonKenG666 joined the game
+[29Mar2025 03:17:10.895] [Server thread/INFO] [Waila/]: Syncing config to DonKenG666 (f2c57846-855b-3dee-bacb-ab9b02c95fd0)
+[29Mar2025 03:17:12.865] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of DonKenG666 (18)
+[29Mar2025 03:17:12.866] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DonKenG666
+[29Mar2025 03:17:28.851] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ChirinoSMK> help
+[29Mar2025 03:17:35.970] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ChirinoSMK> me cai
+[29Mar2025 03:17:44.439] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ChirinoSMK> XD
+[29Mar2025 03:17:48.377] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DonKenG666> y el voice?
+[29Mar2025 03:17:52.049] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4f755695
+[29Mar2025 03:17:52.056] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: XispasYT[/127.35.153.109:55527] logged in with entity id 310 at (102.5, 65.0, 10.5)
+[29Mar2025 03:17:52.062] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: XispasYT joined the game
+[29Mar2025 03:17:52.154] [Server thread/INFO] [Waila/]: Syncing config to XispasYT (81bf50e3-d2d9-36df-8f8a-fef79bbeb094)
+[29Mar2025 03:17:52.970] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of XispasYT (18)
+[29Mar2025 03:17:52.971] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to XispasYT
+[29Mar2025 03:18:06.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ChirinoSMK> hay que salir y volver a entrar
+[29Mar2025 03:18:07.246] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: XispasYT lost connection: Timed out
+[29Mar2025 03:18:07.247] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: XispasYT left the game
+[29Mar2025 03:18:07.247] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client XispasYT
+[29Mar2025 03:18:09.796] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DonKenG666 lost connection: Disconnected
+[29Mar2025 03:18:09.796] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DonKenG666 left the game
+[29Mar2025 03:18:09.797] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DonKenG666
+[29Mar2025 03:18:11.845] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: ChirinoSMK lost connection: Disconnected
+[29Mar2025 03:18:11.846] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ChirinoSMK left the game
+[29Mar2025 03:18:11.846] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ChirinoSMK
+[29Mar2025 03:18:19.046] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@23e3d2ac
+[29Mar2025 03:18:19.052] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: DonKenG666[/127.30.4.36:48615] logged in with entity id 353 at (102.61850820658482, 53.0, -6.127523694622904)
+[29Mar2025 03:18:19.056] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DonKenG666 joined the game
+[29Mar2025 03:18:19.168] [Server thread/INFO] [Waila/]: Syncing config to DonKenG666 (f2c57846-855b-3dee-bacb-ab9b02c95fd0)
+[29Mar2025 03:18:19.699] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of DonKenG666 (18)
+[29Mar2025 03:18:19.701] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DonKenG666
+[29Mar2025 03:18:21.146] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@443757dd
+[29Mar2025 03:18:21.151] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: ChirinoSMK[/127.215.174.2:55517] logged in with entity id 355 at (101.54878199895683, 54.0, -9.950898091476935)
+[29Mar2025 03:18:21.153] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ChirinoSMK joined the game
+[29Mar2025 03:18:21.187] [Server thread/INFO] [Waila/]: Syncing config to ChirinoSMK (6d8b0ec6-213f-39d1-addb-275871044be4)
+[29Mar2025 03:18:24.114] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ChirinoSMK (18)
+[29Mar2025 03:18:24.115] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ChirinoSMK
+[29Mar2025 03:18:33.918] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DonKenG666> por gusto
+[29Mar2025 03:18:40.962] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: You whisper to DonKenG666: el voice hoy no estara porque bueno no tenemos puerto al que conectarlo
+[29Mar2025 03:18:40.973] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: You whisper to ChirinoSMK: el voice hoy no estara porque bueno no tenemos puerto al que conectarlo
+[29Mar2025 03:18:44.694] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ChirinoSMK> del minecraft wn general
+[29Mar2025 03:18:55.151] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ChirinoSMK> ñoooo
+[29Mar2025 03:18:56.459] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DonKenG666> ñooooooooooooo
+[29Mar2025 03:19:09.686] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ChirinoSMK> y como carajos jugamos
+[29Mar2025 03:19:15.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DonKenG666> asere asi es xgusto, no se puede solucionar?
+[29Mar2025 03:19:33.624] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ChirinoSMK> como ruego pa que no mematen
+[29Mar2025 03:20:00.780] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DonKenG666> como salgo de acaaaa
+[29Mar2025 03:20:06.621] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ChirinoSMK> nos adelantamos al lore XD
+[29Mar2025 03:20:09.406] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: You whisper to DonKenG666: si saben quien regala nautohares me dicen
+[29Mar2025 03:20:09.407] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: You whisper to ChirinoSMK: si saben quien regala nautohares me dicen
+[29Mar2025 03:20:10.844] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DonKenG666> XD
+[29Mar2025 03:20:15.249] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@10d36135
+[29Mar2025 03:20:15.254] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: XispasYT[/127.35.153.109:52381] logged in with entity id 564 at (102.5, 65.0, 10.5)
+[29Mar2025 03:20:15.257] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: XispasYT joined the game
+[29Mar2025 03:20:15.291] [Server thread/INFO] [Waila/]: Syncing config to XispasYT (81bf50e3-d2d9-36df-8f8a-fef79bbeb094)
+[29Mar2025 03:20:15.998] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of XispasYT (18)
+[29Mar2025 03:20:15.998] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to XispasYT
+[29Mar2025 03:20:26.820] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DonKenG666> xispa arregla el voicechaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+[29Mar2025 03:20:30.347] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: XispasYT lost connection: Timed out
+[29Mar2025 03:20:30.347] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: XispasYT left the game
+[29Mar2025 03:20:30.348] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client XispasYT
+[29Mar2025 03:20:41.328] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ChirinoSMK> yo tengo nautahogar bro
+[29Mar2025 03:21:13.196] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7b9f2016
+[29Mar2025 03:21:13.199] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: TripGampleyYT[/127.70.250.86:46619] logged in with entity id 661 at (94.5, 66.0, 10.5)
+[29Mar2025 03:21:13.201] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TripGampleyYT joined the game
+[29Mar2025 03:21:13.233] [Server thread/INFO] [Waila/]: Syncing config to TripGampleyYT (8518c9c2-42e1-3a64-8f5b-d165af23e6d1)
+[29Mar2025 03:21:22.569] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of TripGampleyYT (18)
+[29Mar2025 03:21:22.570] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to TripGampleyYT
+[29Mar2025 03:21:28.296] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: TripGampleyYT lost connection: Timed out
+[29Mar2025 03:21:28.296] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TripGampleyYT left the game
+[29Mar2025 03:21:28.297] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TripGampleyYT
+[29Mar2025 03:21:36.557] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: You whisper to DonKenG666: el problema es que para poner el voice se necesita un ruter o lo que nosostros llamamos nautogar entonces esto esta montado por lo de compartir internet de un telefono
+[29Mar2025 03:21:36.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: You whisper to ChirinoSMK: el problema es que para poner el voice se necesita un ruter o lo que nosostros llamamos nautogar entonces esto esta montado por lo de compartir internet de un telefono
+[29Mar2025 03:21:36.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DonKenG666> estamo atrapados
+[29Mar2025 03:21:47.846] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@270ea6b6
+[29Mar2025 03:21:47.850] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: TripGampleyYT[/127.161.248.253:60091] logged in with entity id 714 at (94.5, 66.0, 10.5)
+[29Mar2025 03:21:47.852] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TripGampleyYT joined the game
+[29Mar2025 03:21:47.885] [Server thread/INFO] [Waila/]: Syncing config to TripGampleyYT (8518c9c2-42e1-3a64-8f5b-d165af23e6d1)
+[29Mar2025 03:21:47.950] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: TripGampleyYT lost connection: Disconnected
+[29Mar2025 03:21:47.950] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TripGampleyYT left the game
+[29Mar2025 03:21:47.950] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TripGampleyYT
+[29Mar2025 03:21:51.844] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DonKenG666> ño de pinga
+[29Mar2025 03:22:01.401] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DonKenG666> entonces no habra voice en toda la serie?
+[29Mar2025 03:22:07.947] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@79c842ca
+[29Mar2025 03:22:07.951] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: TripGampleyYT[/127.161.248.253:41099] logged in with entity id 756 at (94.5, 66.0, 10.5)
+[29Mar2025 03:22:07.955] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TripGampleyYT joined the game
+[29Mar2025 03:22:07.991] [Server thread/INFO] [Waila/]: Syncing config to TripGampleyYT (8518c9c2-42e1-3a64-8f5b-d165af23e6d1)
+[29Mar2025 03:22:08.889] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of TripGampleyYT (18)
+[29Mar2025 03:22:08.890] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to TripGampleyYT
+[29Mar2025 03:22:13.313] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: You whisper to DonKenG666: pero tranquilos estamos trabajando para ponerlo aunque sea de otra manera
+[29Mar2025 03:22:13.313] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: You whisper to ChirinoSMK: pero tranquilos estamos trabajando para ponerlo aunque sea de otra manera
+[29Mar2025 03:22:13.314] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: You whisper to TripGampleyYT: pero tranquilos estamos trabajando para ponerlo aunque sea de otra manera
+[29Mar2025 03:22:17.421] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DonKenG666> mala mia mala mia
+[29Mar2025 03:22:23.005] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: TripGampleyYT lost connection: Timed out
+[29Mar2025 03:22:23.006] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TripGampleyYT left the game
+[29Mar2025 03:22:23.006] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TripGampleyYT
+[29Mar2025 03:22:23.056] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[29Mar2025 03:22:34.300] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DonKenG666> por ahora puede sacarnos de aqui XD
+[29Mar2025 03:22:44.447] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1b6cd97b
+[29Mar2025 03:22:44.451] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: TripGampleyYT[/127.161.248.253:47573] logged in with entity id 846 at (94.5, 66.0, 10.5)
+[29Mar2025 03:22:44.453] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TripGampleyYT joined the game
+[29Mar2025 03:22:44.510] [Server thread/INFO] [Waila/]: Syncing config to TripGampleyYT (8518c9c2-42e1-3a64-8f5b-d165af23e6d1)
+[29Mar2025 03:22:45.649] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of TripGampleyYT (18)
+[29Mar2025 03:22:45.649] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to TripGampleyYT
+[29Mar2025 03:22:51.920] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ChirinoSMK> si medices como hacerlo lo hago pq yo tengo un router
+[29Mar2025 03:22:59.595] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: TripGampleyYT lost connection: Timed out
+[29Mar2025 03:22:59.595] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TripGampleyYT left the game
+[29Mar2025 03:22:59.596] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TripGampleyYT
+[29Mar2025 03:23:02.551] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: You whisper to DonKenG666: hay un boton oculto en la pared de ladrillos
+[29Mar2025 03:23:02.557] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: You whisper to ChirinoSMK: hay un boton oculto en la pared de ladrillos
+[29Mar2025 03:23:23.597] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4de9354
+[29Mar2025 03:23:23.600] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: JORDANCITO2006[/127.237.189.25:57437] logged in with entity id 911 at (95.5, 66.0, 6.5)
+[29Mar2025 03:23:23.602] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JORDANCITO2006 joined the game
+[29Mar2025 03:23:23.638] [Server thread/INFO] [Waila/]: Syncing config to JORDANCITO2006 (0427da2d-32fd-3b35-8a9f-3d9c99a6ac2f)
+[29Mar2025 03:23:24.359] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of JORDANCITO2006 (18)
+[29Mar2025 03:23:24.359] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to JORDANCITO2006
+[29Mar2025 03:23:28.302] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DonKenG666> no hace na

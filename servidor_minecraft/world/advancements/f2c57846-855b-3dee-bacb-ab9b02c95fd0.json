@@ -1,0 +1,64 @@
+{
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "bayou": "2025-03-29 03:17:10 +0000"
+    },
+    "done": true
+  },
+  "shieldexp:recipes/diamond_shield": {
+    "criteria": {
+      "has_diamond": "2025-03-29 03:18:40 +0000"
+    },
+    "done": true
+  },
+  "shieldexp:recipes/golden_shield": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-29 03:18:40 +0000"
+    },
+    "done": true
+  },
+  "global:hako": {
+    "criteria": {
+      "trigger": "2025-03-29 03:17:10 +0000"
+    },
+    "done": true
+  },
+  "nycto:nycto": {
+    "criteria": {
+      "trigger": "2025-03-29 03:17:10 +0000"
+    },
+    "done": true
+  },
+  "global:root": {
+    "criteria": {
+      "trigger": "2025-03-29 03:17:10 +0000"
+    },
+    "done": true
+  },
+  "shieldexp:recipes/wooden_shield": {
+    "criteria": {
+      "has_stick": "2025-03-29 03:18:40 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "bayou_mangrove": "2025-03-29 03:17:30 +0000",
+      "bayou": "2025-03-29 03:17:10 +0000"
+    },
+    "done": false
+  },
+  "shieldexp:recipes/iron_shield": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-29 03:18:40 +0000"
+    },
+    "done": true
+  },
+  "shieldexp:recipes/netherite_shield": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-29 03:18:40 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 2586
+}

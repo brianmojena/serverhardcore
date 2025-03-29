@@ -1,0 +1,33 @@
+{
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "bayou": "2025-03-29 03:21:13 +0000"
+    },
+    "done": true
+  },
+  "global:hako": {
+    "criteria": {
+      "trigger": "2025-03-29 03:21:13 +0000"
+    },
+    "done": true
+  },
+  "nycto:nycto": {
+    "criteria": {
+      "trigger": "2025-03-29 03:21:13 +0000"
+    },
+    "done": true
+  },
+  "global:root": {
+    "criteria": {
+      "trigger": "2025-03-29 03:21:13 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "bayou": "2025-03-29 03:21:13 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 2586
+}
